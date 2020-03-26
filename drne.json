@@ -27,6 +27,6 @@
         "link": "https://github.com/benpossystems/Drone-View/raw/master/Drone_view_original_first.zip"
         },
         {
-        "drone_type": normal,
+        "drone_type": "normal",
         "link": "https://github.com/benpossystems/Drone-View/raw/master/Drone_view_original_second.zip"
         }]
